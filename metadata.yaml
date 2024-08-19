@@ -1,5 +1,8 @@
 _repo: Belle-Sylvie_73999
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73999-h/images/cover.jpg
 creator:
   author:
     agent_name: Silvestre, Charles
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Silvestre
     - https://fr.wikipedia.org/wiki/Charles_Silvestre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73999#Belle-Sylvie
 gutenberg_issued: '2024-07-10'
 gutenberg_type: Text
 identifiers:
